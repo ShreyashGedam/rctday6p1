@@ -1,0 +1,33 @@
+.basic{
+    border: 1px solid black;
+    width: 65%;
+    height: 50px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.buttonbasic{
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.buttonlight{
+    background-color: lightgrey;
+}
+
+.buttondark{
+    background-color: black;
+    color: white;
+}
+
+.basiclight {
+    background-color: aquamarine;
+}
+
+.basicdark{
+    background-color: blueviolet;
+}
+
